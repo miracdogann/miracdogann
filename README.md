@@ -29,7 +29,7 @@
 </div>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake.svg?color_snake=7E3ACE&color_dots=9BE9A8,40C463,30A14E,216E39)
+![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake.gif?color_snake=FF6B6B&color_dots=FFD93D,6BCB77,4D96FF)
 
 ---
 ## 👨‍💻 About Me
