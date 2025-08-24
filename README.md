@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand">
   
 <!-- Dynamic Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Miraç+Doğan;Full-Stack+Developer;React+Specialist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Miraç+Doğan;Full-Stack+Developer;React+Specialist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <!-- Profile Badges -->
 <p align="center">
@@ -137,17 +137,6 @@ Modern portfolio showcasing my skills, projects, and experience. Deployed on Ver
 ![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-## 📈 Learning Goals 2024
-
-- [x] Master Advanced React Patterns
-- [x] Deepen Django REST Framework Knowledge
-- [ ] Explore Cloud Architecture (AWS/Azure)
-- [ ] Learn GraphQL Implementation
-- [ ] Build 3D Web Experiences with Three.js
-- [ ] Contribute to Open Source Projects
 
 ---
 
