@@ -2,7 +2,7 @@
 <!-- Copy this entire code into your README.md file -->
 
 <div align="center">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <!-- Animated GIF Header -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand">
   
