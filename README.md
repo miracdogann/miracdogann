@@ -1,118 +1,179 @@
-<div align="center">
-  <img src="https://via.placeholder.com/800x200/1a1a1a/ffffff?text=Mira%C3%A7+Do%C4%9Fan+-+Software+Developer" alt="Profile Banner" width="600">
-</div>
-
-<h1 align="center">Hi, I'm Miraç Doğan</h1>
+<!-- GitHub Profile README for Miraç Doğan -->
+<!-- Copy this entire code into your README.md file -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1a1a1a?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="AI Enthusiast">
-  <img src="https://img.shields.io/badge/Game%20Developer-1a1a1a?style=for-the-badge&logo=godotengine&logoColor=green" alt="Game Developer">
-</div>
 
-<div align="center">
-  <em>Full-stack developer with a passion for crafting scalable web and mobile applications, AI-driven solutions, and game prototypes. I thrive on turning complex problems into elegant, user-centric solutions.</em>
-</div>
+<!-- Animated GIF Header -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand">
+  
+<!-- Dynamic Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Miraç+Doğan;Full-Stack+Developer;React+Specialist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-<div align="center">
+<!-- Profile Badges -->
+<p align="center">
   <a href="https://miracdogan.vercel.app/">
-    <img src="https://img.shields.io/website?label=Portfolio&style=flat-square&url=https%3A%2F%2Fmiracdogan.vercel.app%2F&color=1a1a1a" alt="Website">
+    <img src="https://img.shields.io/badge/🌐_Personal_Website-7E3ACE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.sanayirehbercim.com/">
+    <img src="https://img.shields.io/badge/🏭_Sanayi_Rehberi-FF7139?style=for-the-badge&logo=react&logoColor=white" alt="Sanayi Rehberi">
   </a>
   <a href="https://www.linkedin.com/in/mira%C3%A7-do%C4%9Fan-194086263/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:miracdogan7247@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
 </div>
 
 ---
 
-## About Me
-- **Location**: Turkey
-- **Experience**: 3+ years in software development
-- **Focus**: Full-stack development, mobile apps, AI data processing, and game prototyping
-- **Currently Exploring**: Advanced AI model optimization and cloud deployment
-- **Mission**: Build impactful, scalable solutions that enhance user experiences
-
-*Fun fact*: I love designing sleek UI/UX with Figma and prototyping games with GDevelop in my spare time.
-
----
-
-## Skills & Technologies
-
-### Proficient
-| Category            | Technologies                                           |
-|---------------------|-------------------------------------------------------|
-| **Frontend**        | HTML, CSS, JavaScript, Bootstrap, React, Vite, TailwindCSS, Material UI |
-| **Backend**         | Python, Django, Django REST Framework                 |
-| **Mobile**          | React Native, Expo                                    |
-| **Databases/Tools** | SQLite, MySQL, Postman, VPS Server Setup             |
-| **Design & Others** | WordPress, Figma (UI/UX Design), GDevelop (Game Dev)  |
-| **AI & Data**       | Model Training, Data Preprocessing, Data Analysis     |
-
-### Learning
-- Cloud platforms (AWS, Vercel)
-- Advanced AI frameworks (TensorFlow, PyTorch)
-- Game development with Unity
+## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,tailwind,materialui,python,django,sqlite,mysql,figma,wordpress,godot" alt="Skills Icons">
+  
+🎯 **Innovative software developer** passionate about building scalable applications from frontend to backend, mobile development, and AI-driven solutions.
+
+📍 **Based in Turkey** with 3+ years of experience in software development
+
+🚀 **Focus Areas:** Full-stack web development, mobile apps, AI data processing, and game prototyping
+
+💡 **Fun fact:** I use Figma for rapid app designs and GDevelop for quick game prototypes!
+
 </div>
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### 1. Sanayi Rehberi (Industrial Directory)
-- **Description**: A dynamic platform for discovering industrial companies in Turkey, with robust search and filtering capabilities.
-- **Technologies**: React, Django, MySQL
-- **Live**: [sanayirehbercim.com](https://www.sanayirehbercim.com/)
-- **Repo**: [github.com/miracdogann/sanayi-rehberi](https://github.com/miracdogann/sanayi-rehberi) *(update with actual repo)*
-- <div align="center"><img src="https://via.placeholder.com/600x300?text=Sanayi+Rehberi+Screenshot" alt="Sanayi Rehberi" width="400"></div>
+### 🔥 Proficient Technologies
 
-### 2. Personal Portfolio
-- **Description**: A modern, responsive portfolio showcasing my skills and projects, optimized for performance on Vercel.
-- **Technologies**: React, TailwindCSS, Vite
-- **Live**: [miracdogan.vercel.app](https://miracdogan.vercel.app/)
-- **Repo**: [github.com/miracdogann/portfolio](https://github.com/miracdogann/portfolio) *(update with actual repo)*
-- <div align="center"><img src="https://via.placeholder.com/600x300?text=Portfolio+Screenshot" alt="Portfolio" width="400"></div>
+<div align="center">
 
-### 3. English Word Memorization Program
-- **Description**: An interactive tool for learning English vocabulary through quizzes and progress tracking.
-- **Technologies**: Python, Django
-- **Repo**: [github.com/miracdogann/English-word-memorization-program](https://github.com/miracdogann/English-word-memorization-program)
+#### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### 4. YouTube to MP3 Converter
-- **Description**: A web app for converting YouTube videos to MP3, featuring a clean and intuitive interface.
-- **Technologies**: Python, Django
-- **Repo**: [github.com/miracdogann/youtube-to-mp3-converte-with-pytohn-django](https://github.com/miracdogann/youtube-to-mp3-converte-with-pytohn-django)
+#### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-*Explore more projects in my [repositories](https://github.com/miracdogann?tab=repositories).*
+#### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+#### Databases & Tools
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS%20Server-0A9EDC?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+#### Design & Others
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![GDevelop](https://img.shields.io/badge/GDevelop-5D12FF?style=for-the-badge&logo=gdevelop&logoColor=white)
+
+#### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Model Training](https://img.shields.io/badge/AI%20Model%20Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00CCBB?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miracdogann&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miracdogann&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="300">
-</div>
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miracdogann&theme=darkhub&no-frame=true&margin-w=10" alt="Trophies">
+
+### 🏭 Sanayi Rehberi (Industrial Directory)
+[![Sanayi Rehberi](https://img.shields.io/badge/🔗_Live_Demo-FF7139?style=for-the-badge)](https://www.sanayirehbercim.com/)
+[![GitHub](https://img.shields.io/badge/📦_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/miracdogann/sanayi-rehberi)
+
+A comprehensive directory for industrial companies in Turkey, featuring advanced search, filtering, and user-friendly navigation.
+
+**Tech Stack:** React, Django, MySQL, TailwindCSS
+
+---
+
+### 🌐 Personal Portfolio
+[![Portfolio](https://img.shields.io/badge/🔗_Live_Demo-7E3ACE?style=for-the-badge)](https://miracdogan.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📦_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/miracdogann/portfolio)
+
+Modern portfolio showcasing my skills, projects, and experience. Deployed on Vercel for optimal performance.
+
+**Tech Stack:** React, Vite, TailwindCSS, Framer Motion
+
 </div>
 
 ---
 
-## Get in Touch
-- **Email**: [miracdogan7247@gmail.com](mailto:miracdogan7247@gmail.com)
-- **LinkedIn**: [linkedin.com/in/miraç-doğan-194086263](https://www.linkedin.com/in/mira%C3%A7-do%C4%9Fan-194086263/)
-- **Portfolio**: [miracdogan.vercel.app](https://miracdogan.vercel.app/)
-
-I'm always open to discussing new projects, collaborations, or opportunities. Let's connect!
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miracdogann&label=Profile%20Views&color=1a1a1a&style=flat" alt="Profile Views">
+  
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=miracdogann&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miracdogann&theme=radical&hide_border=true&background=0d1117&stroke=7E3ACE&ring=7E3ACE&fire=7E3ACE&currStreakNum=7E3ACE&sideNums=7E3ACE&currStreakLabel=7E3ACE&sideLabels=7E3ACE&dates=7E3ACE" alt="GitHub Streak" height="165">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracdogann&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=ffffff" alt="Top Languages" height="165">
+
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=miracdogann&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miracdogann&theme=react-dark&bg_color=0d1117&hide_border=true&color=7E3ACE&line=7E3ACE&point=FFFFFF" alt="GitHub Activity Graph" width="100%">
+
+<!-- Snake Animation -->
+![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake.svg)
+
 </div>
 
-*Thanks for visiting! If you find my work interesting, consider starring a repo! ⭐*
+---
+
+## 📈 Learning Goals 2024
+
+- [x] Master Advanced React Patterns
+- [x] Deepen Django REST Framework Knowledge
+- [ ] Explore Cloud Architecture (AWS/Azure)
+- [ ] Learn GraphQL Implementation
+- [ ] Build 3D Web Experiences with Three.js
+- [ ] Contribute to Open Source Projects
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+<p align="center">
+  <a href="mailto:miracdogan7247@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mira%C3%A7-do%C4%9Fan-194086263/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://miracdogan.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-7E3ACE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://github.com/miracdogann">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=miracdogann&label=Profile+Views&color=7E3ACE&style=flat-square" alt="Profile visitor counter">
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote">
+
+</div>
