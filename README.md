@@ -5,7 +5,7 @@
 <!-- Animated GIF Header -->
   
 <!-- Dynamic Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2000&pause=1500&color=00DFF7&width=435&separator=%3C&lines=Hi%F0%9F%91%8B%2CI'm+Mira%C3%A7+Do%C4%9Fan+Full-Stack+Developer;React+Specialist;AI+Enthusiast+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2000&pause=1500&color=00DFF7&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Mira%C3%A7+Do%C4%9Fan+%F0%9F%9A%80;Full-Stack+Developer+%7C+React+Specialist;AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 
 <!-- Profile Badges -->
 <p align="center">
