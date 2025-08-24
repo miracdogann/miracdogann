@@ -7,7 +7,7 @@
 <!-- Dynamic Typing Text -->
 
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2000&pause=1500&color=00DFF7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Mira%C3%A7+Do%C4%9Fan;Full-Stack+Developer;React+Specialist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=2500&pause=1500&color=00DFF7&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Miraç+Doğan+💻;Full-Stack+Developer+🚀;React+Specialist+⚛️;AI+Enthusiast+🤖;Problem+Solver+✅" alt="Typing SVG">
 
 
 <!-- Profile Badges -->
