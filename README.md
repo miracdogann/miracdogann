@@ -29,8 +29,7 @@
 </div>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake.gif?color_snake=FF6B6B&color_dots=FFD93D,6BCB77,4D96FF)
-
+![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake-dark.svg)
 ---
 ## 👨‍💻 About Me
 
