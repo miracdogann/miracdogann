@@ -1,102 +1,111 @@
-<!-- Bu kodu doğrudan GitHub README.md dosyasına yapıştırabilirsin -->
-<!-- GitHub Markdown ve HTML'in birleşimi şeklinde hazırlandı -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand">
+</p>
 
-<div align="center">
-  
-  <!-- Başlık ve animasyonlu giriş -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=500&lines=Merhaba+👋;Ben+Mirac+Doğan;Full+Stack+Developer;AI+Meraklısı" alt="Typing SVG" />
-  
-  <!-- Sosyal medya bağlantıları -->
-  <p align="center">
-    <a href="https://miracdogan.vercel.app/">
-      <img src="https://img.shields.io/badge/🌐-Kişisel%20Web%20Sitem-blue?style=for-the-badge" alt="Kişisel Website" />
-    </a>
-    <a href="https://www.sanayirehbercim.com/">
-      <img src="https://img.shields.io/badge/🏭-Sanayi%20Rehberi%20Projem-orange?style=for-the-badge" alt="Sanayi Rehberi" />
-    </a>
-  </p>
-  
-  <!-- GitHub istatistikleri -->
-  <img src="https://github-readme-stats.vercel.app/api?username=miracdogan&show_icons=true&theme=radical&hide_border=true" alt="Mirac's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miracdogan&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-## 🚀 Teknoloji Yığınım
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-### Mobil
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### Veritabanı & Araçlar
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS%20Sunucu-0A9EDC?style=for-the-badge&logo=digitalocean&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Oyun Geliştirme & AI
-![GDevelop](https://img.shields.io/badge/GDevelop-5D12FF?style=for-the-badge&logo=gdevelop&logoColor=white)
-![AI Model Eğitimi](https://img.shields.io/badge/AI%20Model%20Eğitimi-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Veri Analizi](https://img.shields.io/badge/Veri%20Analizi-00CCBB?style=for-the-badge&logo=pandas&logoColor=white)
-
-## 🌟 Öne Çıkan Projeler
-
-<div align="center">
-  
-  ### 🏭 Sanayi Rehberi Projesi
-  [![Sanayi Rehberi](https://img.shields.io/badge/🔗-SanayiRehbercim.com-orange?style=for-the-badge)](https://www.sanayirehbercim.com/)
-  
-  ### 🌐 Kişisel Web Sitem
-  [![Kişisel Website](https://img.shields.io/badge/🔗-MiracDogan.vercel.app-blue?style=for-the-badge)](https://miracdogan.vercel.app/)
-  
-</div>
-
-## 📈 GitHub İstatistiklerim
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miracdogan&layout=compact&theme=radical&hide_border=true)
-  
-  <!-- Özel bir görsel eklemek istersen -->
-  ![GitHub Haritası](https://raw.githubusercontent.com/miracdogan/miracdogan/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-## 📫 İletişim
+<h1 align="center">Merhaba 👋, Ben Miraç Doğan!</h1>
 
 <p align="center">
-  <a href="mailto:miracdogan@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%9A%80-blueviolet?style=for-the-badge&logo=react" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-%F0%9F%A4%96-orange?style=for-the-badge&logo=tensorflow" alt="AI Enthusiast">
+  <img src="https://img.shields.io/badge/Game%20Developer-%F0%9F%8E%AE-green?style=for-the-badge&logo=unity" alt="Game Developer">
+</p>
+
+<p align="center">
+  <em>Yenilikçi bir yazılım geliştiriciyim. Frontend'den backend'e, mobil uygulamalardan AI model eğitimine kadar her alanda tutkulu bir şekilde çalışıyorum. Teknolojiyi kullanarak gerçek dünya sorunlarını çözmeyi seviyorum! 🚀</em>
+</p>
+
+<p align="center">
+  <a href="https://miracdogan.vercel.app/">
+    <img src="https://img.shields.io/website?label=Kişisel%20Sitem&style=for-the-badge&url=https%3A%2F%2Fmiracdogan.vercel.app%2F" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/miracdogan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/miracdogan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:miracdogan@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=miracdogan&label=Profil+Ziyaretçileri&color=blueviolet&style=flat-square" alt="Profil ziyaretçi sayacı" />
-  
-  *⭐ Bir yıldız bırakmayı unutma!*
-  
-</div>
+---
+
+### 🌟 Hakkımda
+- **Konum:** Türkiye (veya nerede olduğun) 📍
+- **Deneyim:** 3+ yıl yazılım geliştirme (kendi bilgine göre güncelle)
+- **Tutkularım:** Kod yazmak, AI modelleri eğitmek, oyun tasarlamak ve yenilikçi projeler üretmek.
+- **Şu Anda Üzerinde Çalıştığım:** AI destekli veri analizi araçları ve mobil uygulamalar.
+- **Hedefim:** Teknolojiyle dünyayı daha iyi bir yer yapmak! 🌍
+
+Fun fact: Figma ile tasarım yapmayı seviyorum ve GDevelop ile hızlı oyun prototipleri çıkarıyorum. 😎
+
+---
+
+### 🛠️ Becerilerim ve Teknolojilerim
+
+| Kategori | Teknolojiler |
+|----------|--------------|
+| **Frontend** 🌐 | HTML, CSS, JavaScript, Bootstrap, React, Vite, TailwindCSS, Material UI |
+| **Backend** ⚙️ | Python, Django, Django REST Framework |
+| **Mobile** 📱 | React Native, Expo |
+| **Veritabanı & Araçlar** 💾 | SQLite, MySQL, Postman, VPS Sunucu Kurulumu |
+| **Tasarım & Diğer** 🎨 | WordPress, Figma'dan Uygulama Tasarımı, GDevelop ile Oyun Yapma |
+| **AI & Veri** 🤖 | Model Eğitimi, Veri Ön İşleme, Veri Analizi |
+
+![Skills Banner](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,tailwind,materialui,python,django,sqlite,mysql,figma,wordpress)  
+*(Bu ikonları skillicons.dev'den otomatik çekiyor – harika görünüyor!)*
+
+---
+
+### 🚀 Projelerim
+İşte bazı öne çıkan projelerim. Her biri gerçek dünya sorunlarını çözmek için tasarlandı!
+
+1. **Sanayi Rehberi** 🏭  
+   - Açıklama: Türkiye'deki sanayi firmalarını listeleyen, arama ve filtreleme özellikli bir rehber sitesi. Kullanıcılar firmaları kolayca bulabiliyor.  
+   - Teknolojiler: React (Frontend), Django (Backend), MySQL (Veritabanı).  
+   - Link: [www.sanayirehbercim.com](https://www.sanayirehbercim.com/)  
+   - Repo: [GitHub Repo](https://github.com/miracdogan/sanayirehberi) (kendi repo linkini ekle)  
+   <p align="center"><img src="https://via.placeholder.com/600x300?text=Sanayi+Rehberi+Screenshot" alt="Sanayi Rehberi" width="400"></p>  
+   *(Gerçek screenshot'ı ekle, veya GitHub'a yükle.)*
+
+2. **Kişisel Portföy Sitem** 💼  
+   - Açıklama: Becerilerimi ve projelerimi sergileyen modern bir web sitesi. Vercel üzerinde deploy edilmiş.  
+   - Teknolojiler: React, TailwindCSS, Vite.  
+   - Link: [miracdogan.vercel.app](https://miracdogan.vercel.app/)  
+   - Repo: [GitHub Repo](https://github.com/miracdogan/portfolio)  
+   <p align="center"><img src="https://via.placeholder.com/600x300?text=Portfolio+Screenshot" alt="Portfolio" width="400"></p>
+
+3. **AI Veri Analiz Aracı** 📊 (Örnek bir proje – kendi ekle)  
+   - Açıklama: Veri ön işleme ve model eğitimi için Python tabanlı bir araç. Makine öğrenimi modellerini hızlıca test etmeyi sağlıyor.  
+   - Teknolojiler: Python, Scikit-learn (veya bildiklerin).  
+   - Repo: [GitHub Repo](https://github.com/miracdogan/ai-tool)
+
+Daha fazla proje için repolarıma göz at! 🔍
+
+---
+
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miracdogan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miracdogan&theme=radical&hide_border=true" alt="Streak Stats" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miracdogan&theme=radical&no-frame=true" alt="Trophies">
+</p>
+
+*(Kullanıcı adını 'miracdogan' ile değiştir. Bu stats'ler otomatik güncellenir ve wow etkisi yaratır!)*
+
+---
+
+### 📫 İletişime Geç
+- **Email:** miracdogan@example.com (gerçeğini yaz)
+- **LinkedIn:** [linkedin.com/in/miracdogan](https://www.linkedin.com/in/miracdogan/)
+- **Twitter/X:** [@miracdogan](https://twitter.com/miracdogan) (varsa ekle)
+- **Web:** [miracdogan.vercel.app](https://miracdogan.vercel.app/)
+
+Yeni işbirlikleri ve projeler için her zaman açığım! Mesaj at, konuşalım. 💬
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miracdogan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+Teşekkürler ziyaretin için! ⭐ Star vermeyi unutma! 😊
