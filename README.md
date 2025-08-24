@@ -3,7 +3,6 @@
 
 <div align="center">
 <!-- Animated GIF Header -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand">
   
 <!-- Dynamic Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DFF7&width=435&separator=%3C&lines=Hi%F0%9F%91%8B%2CI'm+Mira%C3%A7+Do%C4%9Fan+Full-Stack+Developer;React+Specialist;AI+Enthusiast+Problem+Solver" alt="Typing SVG" />
