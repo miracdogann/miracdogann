@@ -97,7 +97,6 @@
 
 ### 🏭 Sanayi Rehberi (Industrial Directory)
 [![Sanayi Rehberi](https://img.shields.io/badge/🔗_Live_Demo-FF7139?style=for-the-badge)](https://www.sanayirehbercim.com/)
-[![GitHub](https://img.shields.io/badge/📦_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/miracdogann/sanayi-rehberi)
 
 A comprehensive directory for industrial companies in Turkey, featuring advanced search, filtering, and user-friendly navigation.
 
@@ -107,7 +106,6 @@ A comprehensive directory for industrial companies in Turkey, featuring advanced
 
 ### 🌐 Personal Portfolio
 [![Portfolio](https://img.shields.io/badge/🔗_Live_Demo-7E3ACE?style=for-the-badge)](https://miracdogan.vercel.app/)
-[![GitHub](https://img.shields.io/badge/📦_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/miracdogann/portfolio)
 
 Modern portfolio showcasing my skills, projects, and experience. Deployed on Vercel for optimal performance.
 
