@@ -29,7 +29,9 @@
 </div>
 
 ---
+![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake.svg)
 
+---
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -133,7 +135,6 @@ Modern portfolio showcasing my skills, projects, and experience. Deployed on Ver
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracdogann&theme=react-dark&bg_color=0d1117&hide_border=true&color=7E3ACE&line=7E3ACE&point=FFFFFF" alt="GitHub Activity Graph" width="100%">
 
 <!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/miracdogann/miracdogann/output/github-contribution-grid-snake.svg)
 
 </div>
 
